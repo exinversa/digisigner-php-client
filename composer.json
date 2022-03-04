@@ -1,0 +1,16 @@
+{
+    "name": "exinversa/digisigner-php-client",
+    "description": "Hosted DigiSigner Library: Developed by DigiSigner",
+    "authors": [
+        {
+            "name": "DigiSigner",
+            "email": "contact@digisigner.com"
+        }
+    ],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "config": {
+        "sort-packages": true
+    },
+    "prefer-stable": true,
+}
