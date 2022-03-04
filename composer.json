@@ -9,7 +9,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "DigiSigner\\DigiSignerClient\\": "src"
+            "DigiSigner\\": "src"
         }
     },
     "license": "MIT",
