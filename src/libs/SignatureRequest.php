@@ -4,7 +4,7 @@ namespace DigiSigner;
 class SignatureRequest extends ExportObject {
 	
 	
-	protected $signature_request_id = null;
+	private $signature_request_id = null;
 	protected $documents = array();
 	protected $is_completed = null;
 	protected $redirect_for_signing_to_url = null;

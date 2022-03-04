@@ -7,6 +7,11 @@
             "email": "contact@digisigner.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "DigiSigner\\DigiSignerClient\\": "src"
+        }
+    },
     "license": "MIT",
     "minimum-stability": "dev",
     "config": {
