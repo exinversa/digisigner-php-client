@@ -6,7 +6,7 @@
  * - PHP version >= 5.3.0
  * - php curl module;
  */
-namespace DigiSigner;
+namespace DigiSigner\DigiSignerClient;
 
 //includes autoloader, which will take care about the rest of the classes
 require_once(__DIR__ . DIRECTORY_SEPARATOR . 'libs' . DIRECTORY_SEPARATOR . 'ClassLoader.php');
