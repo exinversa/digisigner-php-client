@@ -6,7 +6,7 @@ class SignatureRequest extends ExportObject {
 	
 	public $signature_request_id = null;
 	protected $documents = array();
-	protected $is_completed = null;
+	public $is_completed = null;
 	protected $redirect_for_signing_to_url = null;
 	protected $redirect_after_signing_to_url = null;
 	protected $use_text_tags = null;
